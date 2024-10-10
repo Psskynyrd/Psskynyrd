@@ -10,7 +10,7 @@
 
 <div>
 <p align="left">
-  [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig)
+  <!-- [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig) -->
   <a href="https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig" target="_blank"><img alt="youtube" src="https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ" /></a> 
 </p>
 <p align="right">
