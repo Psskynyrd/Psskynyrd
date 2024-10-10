@@ -12,7 +12,7 @@
 
 <div id="competencies">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <span>Y'all can find me on:</span>
+    <span>Reach Me Out!!:</span>
   </h2>
 </div>
 
@@ -70,8 +70,10 @@ No activity tracked
 
 <hr />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&redirect=true)
 <div>
 <p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fs2dcl4blk7o74mypil3dna&count=9">
 </p><p align="center">
   <a href="https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig" target="_blank"><img alt="youtube" src="https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ" /></a> 
