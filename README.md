@@ -19,6 +19,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=psskynyrd&layuout=compact&theme=synthwave"> -->
+
+```rust
+From: 10 October 2024 - To: 10 October 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
