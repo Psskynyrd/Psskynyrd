@@ -23,10 +23,6 @@
   <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </div>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b535a2b776b3662b4ec9ad6122685a79eb8295a4
 <!--START_SECTION:waka-->
 
 ```rust
