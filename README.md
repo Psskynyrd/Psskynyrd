@@ -29,11 +29,9 @@ No activity tracked
 <hr />
 
 <div>
-<p align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fs2dcl4blk7o74mypil3dna&count=9">
-</p>
 <p align="left">
-  <!-- [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ)](https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig) -->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fs2dcl4blk7o74mypil3dna&count=9">
+</p><p align="">
   <a href="https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig" target="_blank"><img alt="youtube" src="https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ" /></a> 
 </p>
 </div>
