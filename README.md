@@ -8,15 +8,15 @@
 
 <a href="https://www.linkedin.com/in/pasupong-seelalek-034622139" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
+<p align="right">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fs2dcl4blk7o74mypil3dna&count=9">
+</p>
+
 <hr />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </div>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21fs2dcl4blk7o74mypil3dna&count=9">
-</p>
 
 <!--START_SECTION:waka-->
 
