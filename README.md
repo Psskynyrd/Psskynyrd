@@ -15,5 +15,5 @@
 </div>
 
 <p align="center">
-<img src="https://s1.ezgif.com/tmp/ezgif-1-d73b7a28bf.gif" width=""> 
+<img src="https://s1.ezgif.com/tmp/ezgif-1-d73b7a28bf.gif" width="500"> 
 </p>
