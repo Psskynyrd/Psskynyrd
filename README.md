@@ -70,7 +70,6 @@ No activity tracked
 
 <hr />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&redirect=true)
 <div>
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&redirect=true" target="_blank">
