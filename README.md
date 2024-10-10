@@ -19,4 +19,6 @@
 </p>
 
 <!--START_SECTION:waka-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=psskynyrd&layuout=compact&theme=synthwave">
+
 <!--END_SECTION:waka-->
