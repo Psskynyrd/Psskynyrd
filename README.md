@@ -13,3 +13,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </div>
+
+<p align="center">
+<img src="https://s1.ezgif.com/tmp/ezgif-1-d73b7a28bf.gif" width=""> 
+</p>
