@@ -33,6 +33,8 @@
     <span>Competencies:</span>
   </h2>
 </div>
+
+<div>
 <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040" /> 
 <img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/> 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200" /> <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black&color=blue" /> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=black&color=yellow" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -43,6 +45,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</div>
 
 
 <hr />
