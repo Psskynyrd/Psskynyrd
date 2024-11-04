@@ -5,7 +5,7 @@
     <img alt="visitor's count" src="https://profile-counter.glitch.me/Psskynyrd/count.svg">
 </div>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1500&pause=1200&color=0CF767C3&background=000000FB&center=true&vCenter=true&width=435&height=100&lines=Welcome+to+my+Github;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&duration=2000&pause=1000&color=02F707&background=363636&center=true&vCenter=true&width=435&lines=Welcome+to;Pasupong+Seelalek)](https://git.io/typing-svg)
 
 - My name is **Pasupong Seelalek (POND)**
 - Currently work in  <img src="https://img.freepik.com/free-vector/illustration-thailand-flag_53876-27145.jpg" width="30"> **Thailand**
