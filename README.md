@@ -1,9 +1,9 @@
 
 # Hi there  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFvaGhxZXJhYjBsaTM0NWdlYWw4cnNoZm1lNDZtaXBmMHdkamJ2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d2jibZKKA0k3RUgU/200.webp" width="90"> 
 
-<div align="center">
+<!--<div align="center">
     <img alt="visitor's count" src="https://profile-counter.glitch.me/Psskynyrd/count.svg">
-</div>  
+</div> -->  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=25&duration=2000&pause=1000&color=02F707&background=363636&center=true&vCenter=true&width=435&height=100&lines=Welcome+;My+name+is+Pasupong+Seelalek)](https://git.io/typing-svg)
 
