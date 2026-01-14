@@ -54,9 +54,10 @@
 
 <hr />
 
-<div align="center">
+<!--<div align="center">
   <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" />
-</div>
+</div> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Psskynyrd)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
