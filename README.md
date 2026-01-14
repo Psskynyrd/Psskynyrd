@@ -54,10 +54,11 @@
 
 <hr />
 
-<!--<div align="center">
-  <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" />
-</div> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Psskynyrd)](https://git.io/streak-stats)
+<div align="center">
+  <!-- <img src="https://streak-stats.demolab.com?user=psskynyrd&theme=chartreuse-dark&border_radius=10&card_width=495" /> -->
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Psskynyrd&theme=onedark" alt="GitHub Streak" /></a>
+</div> 
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Psskynyrd)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
 
