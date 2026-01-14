@@ -93,3 +93,8 @@ Other                              19 hrs 48 mins  >------------------------   0
 
 <hr />
 
+ <!-- steam-box-playtime start -->
+ <!-- steam-box-playtime end -->
+  <!-- steam-box-recent start -->
+ <!-- steam-box-recent end -->
+
