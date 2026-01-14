@@ -16,6 +16,10 @@
   </h2>
 </div>
 
+<a href="https://www.p-seelalek.me" target="_blank">
+<p>My Portfolio Website</p>
+</a>
+
 <a href="https://steamcommunity.com/id/PasuSeela/" target="_blank">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
@@ -71,7 +75,7 @@ Other                              19 hrs 48 mins  >------------------------   0
 
 <!--END_SECTION:waka-->
 
-![GitHub metrics](https://metrics.lecoq.io/Psskynyrd)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Psskynyrd)  -->
 
 <hr />
 
