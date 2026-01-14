@@ -94,7 +94,24 @@ Other                              19 hrs 48 mins  >------------------------   0
 <hr />
 
  <!-- steam-box-playtime start -->
- <!-- steam-box-playtime end -->
+🎮 Steam playtime leaderboard
+```text
+🎮 Kingdom Come: Deliverance        🕘 247 hrs 41 mins
+🎮 Last Epoch                       🕘 153 hrs 15 mins
+💻 Wallpaper Engine                 🕘 52 hrs 54 mins
+🧟 Left 4 Dead 2                    🕘 49 hrs 3 mins
+🎮 Assassin's Creed II              🕘 46 hrs 30 mins
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-playtime end -->
   <!-- steam-box-recent start -->
- <!-- steam-box-recent end -->
+🎮 Recently played Steam games
+```text
+⚔️ Dota 2                           🕘 3446 hrs 42 mins
+🎮 Last Epoch                       🕘 153 hrs 15 mins
+🎮 Mortal Kombat 11                 🕘 17 hrs 20 mins
+🎮 Wordle 2                         🕘 0 hrs 34 mins
+```
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-recent end -->
 
