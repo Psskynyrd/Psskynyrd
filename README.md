@@ -109,7 +109,7 @@ Other                              20 hrs          >------------------------   0
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3491 hrs 54 mins
+⚔️ Dota 2                           🕘 3493 hrs 53 mins
 🎮 Last Epoch                       🕘 170 hrs 19 mins
 🔫 Counter-Strike 2                 🕘 19 hrs 20 mins
 ```
