@@ -111,7 +111,6 @@ Other                              20 hrs          >------------------------   0
 ```text
 ⚔️ Dota 2                           🕘 3494 hrs 23 mins
 🎮 Last Epoch                       🕘 170 hrs 19 mins
-🔫 Counter-Strike 2                 🕘 19 hrs 20 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
