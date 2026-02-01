@@ -99,7 +99,7 @@ Other                              20 hrs 10 mins  >------------------------   0
 🎮 Steam playtime leaderboard
 ```text
 🎮 Kingdom Come: Deliverance        🕘 247 hrs 41 mins
-🎮 Last Epoch                       🕘 170 hrs 19 mins
+🎮 Last Epoch                       🕘 171 hrs 6 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
 🧟 Left 4 Dead 2                    🕘 49 hrs 3 mins
 🎮 Assassin's Creed II              🕘 46 hrs 30 mins
@@ -110,7 +110,9 @@ Other                              20 hrs 10 mins  >------------------------   0
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3496 hrs 50 mins
-🎮 Last Epoch                       🕘 170 hrs 19 mins
+🎮 Last Epoch                       🕘 171 hrs 6 mins
+🎮 Overwatch® 2                     🕘 2 hrs 1 mins
+🎮 Bongo Cat                        🕘 0 hrs 3 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
