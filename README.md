@@ -63,16 +63,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 October 2024 - To: 05 February 2026
+From: 10 October 2024 - To: 06 February 2026
 
-Total Time: 603 hrs 53 mins
+Total Time: 608 hrs 14 mins
 
-TypeScript                         221 hrs 9 mins  >>>>>>>>>----------------   35.43 %
-Kotlin                             74 hrs 12 mins  >>>----------------------   11.89 %
-C#                                 71 hrs 38 mins  >>>----------------------   11.48 %
-C                                  53 hrs 11 mins  >>-----------------------   08.52 %
-C++                                51 hrs 45 mins  >>-----------------------   08.29 %
-Other                              20 hrs 18 mins  >------------------------   03.25 %
+TypeScript                         221 hrs 9 mins  >>>>>>>>>----------------   35.18 %
+C#                                 75 hrs 59 mins  >>>----------------------   12.09 %
+Kotlin                             74 hrs 12 mins  >>>----------------------   11.81 %
+C                                  53 hrs 11 mins  >>-----------------------   08.46 %
+C++                                51 hrs 45 mins  >>-----------------------   08.23 %
+Other                              20 hrs 18 mins  >------------------------   03.23 %
 ```
 
 <!--END_SECTION:waka-->
