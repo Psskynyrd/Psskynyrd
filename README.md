@@ -109,7 +109,7 @@ Other                              20 hrs 19 mins  >------------------------   0
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3505 hrs 52 mins
+⚔️ Dota 2                           🕘 3507 hrs 53 mins
 🎮 Overwatch® 2                     🕘 15 hrs 40 mins
 🎮 Last Epoch                       🕘 171 hrs 6 mins
 🎮 Bongo Cat                        🕘 0 hrs 3 mins
