@@ -109,8 +109,8 @@ Other                              20 hrs 40 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3528 hrs 32 mins
-🎮 Deadlock                         🕘 44 hrs 27 mins
+⚔️ Dota 2                           🕘 3529 hrs 28 mins
+🎮 Deadlock                         🕘 45 hrs 28 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
 🎮 Last Epoch                       🕘 171 hrs 44 mins
 🎮 Glyphica: Typing Survival Demo   🕘 0 hrs 3 mins
