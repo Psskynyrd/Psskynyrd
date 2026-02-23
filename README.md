@@ -113,8 +113,8 @@ Other                              20 hrs 41 mins        >----------------------
 ⚔️ Dota 2                           🕘 3533 hrs 39 mins
 🎮 Deadlock                         🕘 47 hrs 19 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
+🎮 Football Manager 26 Demo         🕘 1 hrs 24 mins
 🎮 Heroes of Might and Magic: Olden Era Demo 🕘 0 hrs 58 mins
-🎮 The House Always Wins Demo       🕘 0 hrs 57 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
