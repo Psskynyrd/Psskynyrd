@@ -109,11 +109,11 @@ Other                              20 hrs 41 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3532 hrs 21 mins
+⚔️ Dota 2                           🕘 3533 hrs 39 mins
 🎮 Deadlock                         🕘 47 hrs 19 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
-🎮 Last Epoch                       🕘 171 hrs 44 mins
-🎮 Glyphica: Typing Survival Demo   🕘 0 hrs 3 mins
+🎮 Heroes of Might and Magic: Olden Era Demo 🕘 0 hrs 58 mins
+🎮 The House Always Wins Demo       🕘 0 hrs 57 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
