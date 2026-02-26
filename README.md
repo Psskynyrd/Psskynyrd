@@ -110,11 +110,11 @@ Other                              20 hrs 41 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3541 hrs 2 mins
+⚔️ Dota 2                           🕘 3542 hrs 42 mins
 🎮 Deadlock                         🕘 47 hrs 19 mins
+🎮 House of Legacy                  🕘 3 hrs 37 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
 🎮 Football Manager 26 Demo         🕘 1 hrs 24 mins
-🎮 Heroes of Might and Magic: Olden Era Demo 🕘 0 hrs 58 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
