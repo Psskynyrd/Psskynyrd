@@ -103,18 +103,18 @@ Other                              20 hrs 41 mins        >----------------------
 🎮 Last Epoch                       🕘 171 hrs 44 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
 🧟 Left 4 Dead 2                    🕘 49 hrs 3 mins
-🎮 Deadlock                         🕘 47 hrs 19 mins
+🎮 Deadlock                         🕘 49 hrs 0 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3543 hrs 42 mins
-🎮 Deadlock                         🕘 47 hrs 19 mins
+⚔️ Dota 2                           🕘 3550 hrs 10 mins
+🎮 Deadlock                         🕘 49 hrs 0 mins
 🎮 House of Legacy                  🕘 3 hrs 37 mins
+🎮 Miasma Chronicles                🕘 19 hrs 29 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
-🎮 Football Manager 26 Demo         🕘 1 hrs 24 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
