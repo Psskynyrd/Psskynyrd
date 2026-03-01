@@ -102,17 +102,17 @@ Other                              20 hrs 41 mins        >----------------------
 🎮 Kingdom Come: Deliverance        🕘 247 hrs 41 mins
 🎮 Last Epoch                       🕘 171 hrs 44 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
+🎮 Deadlock                         🕘 50 hrs 59 mins
 🧟 Left 4 Dead 2                    🕘 49 hrs 3 mins
-🎮 Deadlock                         🕘 49 hrs 0 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3556 hrs 26 mins
-🎮 Deadlock                         🕘 49 hrs 0 mins
-🎮 House of Legacy                  🕘 3 hrs 37 mins
+⚔️ Dota 2                           🕘 3558 hrs 43 mins
+🎮 Deadlock                         🕘 50 hrs 59 mins
+🎮 House of Legacy                  🕘 4 hrs 1 mins
 🎮 Miasma Chronicles                🕘 19 hrs 29 mins
 🎮 Overwatch®                       🕘 17 hrs 42 mins
 ```
