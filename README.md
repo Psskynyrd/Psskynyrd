@@ -110,7 +110,7 @@ Other                              20 hrs 41 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3558 hrs 43 mins
+⚔️ Dota 2                           🕘 3561 hrs 23 mins
 🎮 Deadlock                         🕘 50 hrs 59 mins
 🎮 House of Legacy                  🕘 4 hrs 1 mins
 🎮 Miasma Chronicles                🕘 19 hrs 29 mins
