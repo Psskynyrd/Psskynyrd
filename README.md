@@ -110,11 +110,11 @@ Other                              20 hrs 41 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3579 hrs 52 mins
+⚔️ Dota 2                           🕘 3585 hrs 51 mins
 🎮 Deadlock                         🕘 54 hrs 25 mins
 🎮 House of Legacy                  🕘 4 hrs 1 mins
 🎮 Miasma Chronicles                🕘 19 hrs 29 mins
-🎮 Call of Juarez Gunslinger        🕘 2 hrs 43 mins
+🎮 Generation Zero®                 🕘 14 hrs 23 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
