@@ -112,9 +112,9 @@ Other                              20 hrs 41 mins        >----------------------
 ```text
 ⚔️ Dota 2                           🕘 3594 hrs 48 mins
 🎮 Deadlock                         🕘 54 hrs 25 mins
-🎮 House of Legacy                  🕘 4 hrs 1 mins
 🎮 Miasma Chronicles                🕘 19 hrs 29 mins
 🎮 Generation Zero®                 🕘 14 hrs 52 mins
+🎮 Call of Juarez Gunslinger        🕘 2 hrs 43 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
