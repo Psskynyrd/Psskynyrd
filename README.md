@@ -103,7 +103,7 @@ Other                              20 hrs 42 mins        >----------------------
 🎮 Last Epoch                       🕘 171 hrs 44 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
-🧟 Left 4 Dead 2                    🕘 49 hrs 3 mins
+🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
@@ -111,8 +111,8 @@ Other                              20 hrs 42 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3602 hrs 31 mins
+🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
-🎮 Batman™: Arkham Origins          🕘 43 hrs 53 mins
 🎮 Generation Zero®                 🕘 14 hrs 56 mins
 🎮 Call of Juarez Gunslinger        🕘 2 hrs 43 mins
 ```
