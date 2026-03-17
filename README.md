@@ -114,7 +114,7 @@ Other                              20 hrs 42 mins        >----------------------
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
 🎮 Generation Zero®                 🕘 14 hrs 56 mins
-🎮 Call of Juarez Gunslinger        🕘 2 hrs 43 mins
+🎮 Wild West Pioneers Demo          🕘 0 hrs 38 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
