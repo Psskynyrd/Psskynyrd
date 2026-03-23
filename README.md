@@ -110,11 +110,11 @@ Other                              20 hrs 42 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3622 hrs 9 mins
+⚔️ Dota 2                           🕘 3624 hrs 22 mins
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
-🎮 Generation Zero®                 🕘 14 hrs 56 mins
 🎮 Wild West Pioneers Demo          🕘 0 hrs 38 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
+🎮 Generation Zero®                 🕘 14 hrs 56 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
