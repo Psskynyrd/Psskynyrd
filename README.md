@@ -110,7 +110,7 @@ Other                              20 hrs 42 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3625 hrs 44 mins
+⚔️ Dota 2                           🕘 3626 hrs 49 mins
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 🎮 Wild West Pioneers Demo          🕘 0 hrs 38 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
