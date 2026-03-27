@@ -112,7 +112,6 @@ Other                              20 hrs 47 mins        >----------------------
 ```text
 ⚔️ Dota 2                           🕘 3628 hrs 7 mins
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
-🎮 Wild West Pioneers Demo          🕘 0 hrs 38 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
 🎮 Generation Zero®                 🕘 14 hrs 56 mins
 ```
