@@ -112,8 +112,6 @@ Other                              20 hrs 54 mins        >----------------------
 ```text
 ⚔️ Dota 2                           🕘 3628 hrs 7 mins
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
-🎮 Deadlock                         🕘 54 hrs 54 mins
-🎮 Generation Zero®                 🕘 14 hrs 56 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
