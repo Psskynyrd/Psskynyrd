@@ -111,7 +111,6 @@ Other                              20 hrs 54 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3628 hrs 7 mins
-🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
