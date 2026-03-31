@@ -110,7 +110,8 @@ Other                              20 hrs 54 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3629 hrs 24 mins
+⚔️ Dota 2                           🕘 3630 hrs 59 mins
+🎮 BOXROOM Demo                     🕘 0 hrs 16 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
