@@ -100,7 +100,7 @@ Other                              20 hrs 54 mins        >----------------------
 🎮 Steam playtime leaderboard
 ```text
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
-🎮 Last Epoch                       🕘 171 hrs 44 mins
+🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
 🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
@@ -110,7 +110,8 @@ Other                              20 hrs 54 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3632 hrs 24 mins
+⚔️ Dota 2                           🕘 3635 hrs 46 mins
+🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Screeps: Arena Demo              🕘 0 hrs 23 mins
 🎮 BOXROOM Demo                     🕘 0 hrs 16 mins
 ```
