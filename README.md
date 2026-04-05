@@ -110,7 +110,7 @@ Other                              20 hrs 54 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3641 hrs 28 mins
+⚔️ Dota 2                           🕘 3644 hrs 43 mins
 🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Screeps: Arena Demo              🕘 0 hrs 23 mins
 🎮 BOXROOM Demo                     🕘 0 hrs 16 mins
