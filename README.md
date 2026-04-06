@@ -102,16 +102,17 @@ Other                              20 hrs 54 mins        >----------------------
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Deadlock                         🕘 54 hrs 54 mins
+🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
-🎮 Batman™: Arkham Origins          🕘 52 hrs 3 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3644 hrs 43 mins
+⚔️ Dota 2                           🕘 3646 hrs 46 mins
 🎮 Last Epoch                       🕘 173 hrs 28 mins
+🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 🎮 Screeps: Arena Demo              🕘 0 hrs 23 mins
 🎮 BOXROOM Demo                     🕘 0 hrs 16 mins
 ```
