@@ -110,7 +110,7 @@ Other                              20 hrs 56 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3649 hrs 27 mins
+⚔️ Dota 2                           🕘 3652 hrs 30 mins
 🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 🎮 Screeps: Arena Demo              🕘 0 hrs 23 mins
