@@ -110,9 +110,8 @@ Other                              21 hrs 4 mins         >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3664 hrs 49 mins
+⚔️ Dota 2                           🕘 3666 hrs 39 mins
 🎮 SongRunner Demo                  🕘 3 hrs 48 mins
-🎮 Last Epoch                       🕘 173 hrs 28 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
