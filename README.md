@@ -110,7 +110,7 @@ Other                              21 hrs 17 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3675 hrs 8 mins
+⚔️ Dota 2                           🕘 3677 hrs 48 mins
 🎮 Graveyard Keeper                 🕘 17 hrs 42 mins
 🎮 SongRunner Demo                  🕘 3 hrs 48 mins
 ```
