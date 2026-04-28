@@ -112,7 +112,6 @@ Other                              21 hrs 26 mins        >----------------------
 ```text
 ⚔️ Dota 2                           🕘 3684 hrs 17 mins
 🎮 Graveyard Keeper                 🕘 17 hrs 42 mins
-🎮 SongRunner Demo                  🕘 3 hrs 48 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
