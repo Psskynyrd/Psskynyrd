@@ -110,8 +110,9 @@ Other                              21 hrs 26 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3684 hrs 17 mins
+⚔️ Dota 2                           🕘 3686 hrs 14 mins
 🎮 Graveyard Keeper                 🕘 17 hrs 42 mins
+🎮 代号三国 Demo                    🕘 0 hrs 35 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
