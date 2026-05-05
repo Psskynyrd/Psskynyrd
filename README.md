@@ -111,7 +111,6 @@ Other                              21 hrs 26 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3693 hrs 59 mins
-🎮 Graveyard Keeper                 🕘 17 hrs 42 mins
 🎮 Foundation Demo                  🕘 0 hrs 54 mins
 🎮 代号三国 Demo                    🕘 0 hrs 35 mins
 ```
