@@ -110,7 +110,7 @@ Other                              21 hrs 26 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3697 hrs 6 mins
+⚔️ Dota 2                           🕘 3699 hrs 2 mins
 🎮 Foundation Demo                  🕘 0 hrs 54 mins
 🎮 代号三国 Demo                    🕘 0 hrs 35 mins
 ```
