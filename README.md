@@ -110,9 +110,11 @@ Other                              21 hrs 28 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3702 hrs 11 mins
+⚔️ Dota 2                           🕘 3707 hrs 5 mins
 🎮 Foundation Demo                  🕘 0 hrs 54 mins
 🎮 代号三国 Demo                    🕘 0 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 19 hrs 45 mins
+🎮 Fallout Shelter                  🕘 5 hrs 32 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
