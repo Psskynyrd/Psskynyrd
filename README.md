@@ -110,7 +110,7 @@ Other                              21 hrs 44 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3722 hrs 12 mins
+⚔️ Dota 2                           🕘 3724 hrs 44 mins
 🔫 Counter-Strike 2                 🕘 19 hrs 45 mins
 🎮 Cafe Business Manager Demo       🕘 0 hrs 23 mins
 🎮 Fallout Shelter                  🕘 5 hrs 32 mins
