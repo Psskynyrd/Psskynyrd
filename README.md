@@ -101,7 +101,7 @@ Other                              21 hrs 56 mins        >----------------------
 ```text
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 28 mins
-🎮 Deadlock                         🕘 54 hrs 54 mins
+🎮 Deadlock                         🕘 55 hrs 44 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 💻 Wallpaper Engine                 🕘 52 hrs 54 mins
 ```
@@ -110,10 +110,11 @@ Other                              21 hrs 56 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3732 hrs 52 mins
+⚔️ Dota 2                           🕘 3737 hrs 38 mins
+🎮 Deadlock                         🕘 55 hrs 44 mins
+🎮 Cafe Crew Simulator: Prologue    🕘 0 hrs 29 mins
 🔫 Counter-Strike 2                 🕘 19 hrs 45 mins
 🎮 Cafe Business Manager Demo       🕘 0 hrs 23 mins
-🎮 Fallout Shelter                  🕘 5 hrs 32 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
