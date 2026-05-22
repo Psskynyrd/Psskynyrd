@@ -110,7 +110,7 @@ Other                              21 hrs 44 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3740 hrs 18 mins
+⚔️ Dota 2                           🕘 3741 hrs 59 mins
 🎮 Deadlock                         🕘 55 hrs 44 mins
 🎮 Cafe Crew Simulator: Prologue    🕘 0 hrs 29 mins
 🔫 Counter-Strike 2                 🕘 19 hrs 45 mins
