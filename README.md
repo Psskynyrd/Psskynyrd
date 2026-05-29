@@ -110,7 +110,7 @@ Other                              22 hrs 32 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3753 hrs 57 mins
+⚔️ Dota 2                           🕘 3757 hrs 3 mins
 🎮 Harvest Cafe Demo                🕘 2 hrs 37 mins
 🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Car Mechanic Simulator 2018      🕘 0 hrs 41 mins
