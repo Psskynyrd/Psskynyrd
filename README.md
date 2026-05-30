@@ -114,7 +114,7 @@ Other                              23 hrs 18 mins        >----------------------
 🎮 Harvest Cafe Demo                🕘 2 hrs 37 mins
 🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Car Mechanic Simulator 2018      🕘 0 hrs 41 mins
-🎮 Cafe Crew Simulator: Prologue    🕘 0 hrs 29 mins
+🎮 Path of Exile 2                  🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
