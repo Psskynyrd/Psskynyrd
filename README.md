@@ -113,8 +113,8 @@ Other                              23 hrs 18 mins        >----------------------
 ⚔️ Dota 2                           🕘 3760 hrs 38 mins
 🎮 Harvest Cafe Demo                🕘 2 hrs 37 mins
 🎮 Path of Exile 2                  🕘 2 hrs 41 mins
-🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
+🎮 Deadlock                         🕘 56 hrs 44 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
