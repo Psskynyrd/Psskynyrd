@@ -110,7 +110,7 @@ Other                              24 hrs 58 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3762 hrs 28 mins
+⚔️ Dota 2                           🕘 3764 hrs 35 mins
 🎮 Harvest Cafe Demo                🕘 2 hrs 37 mins
 🎮 Path of Exile 2                  🕘 2 hrs 41 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
