@@ -111,10 +111,10 @@ Other                              26 hrs 3 mins         >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3764 hrs 35 mins
-🎮 Harvest Cafe Demo                🕘 2 hrs 37 mins
 🎮 Path of Exile 2                  🕘 2 hrs 41 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
 🎮 Car Mechanic Simulator 2018      🕘 0 hrs 41 mins
+🎮 BAPBAP                           🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
