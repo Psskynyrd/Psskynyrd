@@ -114,7 +114,7 @@ Other                              27 hrs 18 mins        >----------------------
 🎮 Path of Exile 2                  🕘 2 hrs 41 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 20 hrs 32 mins
-🎮 Car Mechanic Simulator 2018      🕘 0 hrs 41 mins
+🎮 Cloudheim Demo                   🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
