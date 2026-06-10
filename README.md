@@ -110,11 +110,11 @@ Other                              27 hrs 18 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3767 hrs 19 mins
+⚔️ Dota 2                           🕘 3773 hrs 32 mins
 🎮 Path of Exile 2                  🕘 2 hrs 41 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
+🎮 Gravity Circuit                  🕘 1 hrs 0 mins
 🔫 Counter-Strike 2                 🕘 20 hrs 32 mins
-🎮 Cloudheim Demo                   🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
