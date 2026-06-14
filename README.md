@@ -111,8 +111,8 @@ Other                              27 hrs 26 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3782 hrs 46 mins
+🎮 Path of Exile 2                  🕘 11 hrs 14 mins
 🎮 EA SPORTS FC™ 26                 🕘 8 hrs 47 mins
-🎮 Path of Exile 2                  🕘 7 hrs 5 mins
 🎮 Gravity Circuit                  🕘 3 hrs 9 mins
 🎮 Drift86                          🕘 1 hrs 17 mins
 ```
