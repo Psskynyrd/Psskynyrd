@@ -101,16 +101,16 @@ Other                              27 hrs 27 mins        >----------------------
 ```text
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 44 mins
+🎮 Path of Exile 2                  🕘 62 hrs 30 mins
 🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
-💻 Wallpaper Engine                 🕘 52 hrs 54 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Path of Exile 2                  🕘 40 hrs 0 mins
+🎮 Path of Exile 2                  🕘 62 hrs 30 mins
 ⚔️ Dota 2                           🕘 3791 hrs 25 mins
 🎮 EA SPORTS FC™ 26                 🕘 14 hrs 28 mins
 🎮 Gravity Circuit                  🕘 3 hrs 9 mins
