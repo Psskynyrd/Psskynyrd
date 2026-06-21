@@ -114,7 +114,7 @@ Other                              27 hrs 27 mins        >----------------------
 ⚔️ Dota 2                           🕘 3791 hrs 25 mins
 🎮 EA SPORTS FC™ 26                 🕘 14 hrs 28 mins
 🎮 Gravity Circuit                  🕘 3 hrs 9 mins
-🔫 Counter-Strike 2                 🕘 20 hrs 32 mins
+🎮 Cloudheim Demo                   🕘 0 hrs 33 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
