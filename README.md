@@ -63,15 +63,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 October 2024 - To: 04 July 2026
+From: 10 October 2024 - To: 05 July 2026
 
-Total Time: 760 hrs 42 mins
+Total Time: 761 hrs 6 mins
 
-TypeScript                         265 hrs 19 mins       >>>>>>>>-----------------   33.66 %
-C#                                 116 hrs 26 mins       >>>>---------------------   14.77 %
+TypeScript                         265 hrs 21 mins       >>>>>>>>-----------------   33.65 %
+C#                                 116 hrs 44 mins       >>>>---------------------   14.80 %
 Kotlin                             74 hrs 12 mins        >>-----------------------   09.41 %
 C                                  53 hrs 11 mins        >>-----------------------   06.75 %
-C++                                51 hrs 45 mins        >>-----------------------   06.57 %
+C++                                51 hrs 45 mins        >>-----------------------   06.56 %
 PHP                                38 hrs 31 mins        >------------------------   04.89 %
 Other                              27 hrs 27 mins        >------------------------   03.48 %
 ```
