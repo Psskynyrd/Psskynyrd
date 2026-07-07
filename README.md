@@ -110,7 +110,7 @@ Other                              27 hrs 27 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3851 hrs 5 mins
+⚔️ Dota 2                           🕘 3853 hrs 42 mins
 🎮 Path of Exile 2                  🕘 132 hrs 51 mins
 🎮 EA SPORTS FC™ 26                 🕘 16 hrs 40 mins
 ```
