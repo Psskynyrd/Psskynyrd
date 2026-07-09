@@ -101,7 +101,7 @@ Other                              27 hrs 34 mins        >----------------------
 ```text
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 44 mins
-🎮 Path of Exile 2                  🕘 132 hrs 51 mins
+🎮 Path of Exile 2                  🕘 133 hrs 33 mins
 🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 ```
@@ -110,8 +110,8 @@ Other                              27 hrs 34 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3858 hrs 26 mins
-🎮 Path of Exile 2                  🕘 132 hrs 51 mins
+⚔️ Dota 2                           🕘 3864 hrs 44 mins
+🎮 Path of Exile 2                  🕘 133 hrs 33 mins
 🎮 EA SPORTS FC™ 26                 🕘 16 hrs 40 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
