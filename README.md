@@ -110,7 +110,7 @@ Other                              27 hrs 27 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3900 hrs 50 mins
+⚔️ Dota 2                           🕘 3902 hrs 21 mins
 🎮 Path of Exile 2                  🕘 144 hrs 22 mins
 🎮 OFFBEAT Demo                     🕘 0 hrs 59 mins
 🎮 Game of Thrones Kingsroad        🕘 0 hrs 6 mins
