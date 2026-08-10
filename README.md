@@ -111,7 +111,7 @@ Other                              27 hrs 27 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 ⚔️ Dota 2                           🕘 3914 hrs 50 mins
-🎮 Demon Bluff Demo                 🕘 2 hrs 30 mins
+🎮 Demon Bluff Demo                 🕘 14 hrs 30 mins
 🎮 Path of Exile 2                  🕘 145 hrs 40 mins
 🎮 Moonlighter                      🕘 0 hrs 33 mins
 🎮 MORSE Demo                       🕘 0 hrs 26 mins
