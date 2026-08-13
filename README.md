@@ -101,7 +101,7 @@ Other                              27 hrs 27 mins        >----------------------
 ```text
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 44 mins
-🎮 Path of Exile 2                  🕘 145 hrs 40 mins
+🎮 Path of Exile 2                  🕘 147 hrs 56 mins
 🎮 Deadlock                         🕘 56 hrs 44 mins
 🎮 Batman™: Arkham Origins          🕘 53 hrs 18 mins
 ```
@@ -112,7 +112,7 @@ Other                              27 hrs 27 mins        >----------------------
 ```text
 🎮 Demon Bluff Demo                 🕘 16 hrs 52 mins
 ⚔️ Dota 2                           🕘 3916 hrs 24 mins
-🎮 Path of Exile 2                  🕘 145 hrs 40 mins
+🎮 Path of Exile 2                  🕘 147 hrs 56 mins
 🎮 Moonlighter                      🕘 0 hrs 39 mins
 🎮 MORSE Demo                       🕘 0 hrs 26 mins
 ```
