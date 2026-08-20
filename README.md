@@ -114,7 +114,7 @@ Other                              27 hrs 27 mins        >----------------------
 ⚔️ Dota 2                           🕘 3925 hrs 8 mins
 🎮 Upload Labs                      🕘 9 hrs 54 mins
 🎮 Path of Exile 2                  🕘 147 hrs 56 mins
-🎮 Moonlighter                      🕘 0 hrs 39 mins
+🎮 MORSE Demo                       🕘 0 hrs 26 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
