@@ -110,7 +110,7 @@ Other                              27 hrs 27 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Upload Labs                      🕘 17 hrs 54 mins
+🎮 Upload Labs                      🕘 29 hrs 24 mins
 🎮 Demon Bluff Demo                 🕘 16 hrs 52 mins
 ⚔️ Dota 2                           🕘 3931 hrs 41 mins
 🎮 Path of Exile 2                  🕘 147 hrs 56 mins
