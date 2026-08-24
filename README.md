@@ -112,9 +112,7 @@ Other                              27 hrs 27 mins        >----------------------
 ```text
 🎮 Upload Labs                      🕘 41 hrs 59 mins
 ⚔️ Dota 2                           🕘 3931 hrs 42 mins
-🎮 Demon Bluff Demo                 🕘 16 hrs 52 mins
 🎮 Path of Exile 2                  🕘 147 hrs 56 mins
-🎮 Factomancer Demo                 🕘 0 hrs 21 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
