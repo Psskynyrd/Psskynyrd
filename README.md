@@ -110,8 +110,8 @@ Other                              27 hrs 41 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Upload Labs                      🕘 41 hrs 59 mins
-⚔️ Dota 2                           🕘 3933 hrs 12 mins
+🎮 Upload Labs                      🕘 50 hrs 59 mins
+⚔️ Dota 2                           🕘 3934 hrs 36 mins
 🎮 Path of Exile 2                  🕘 147 hrs 56 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
