@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 October 2024 - To: 25 August 2026
+From: 10 October 2024 - To: 27 August 2026
 
 Total Time: 777 hrs 57 mins
 
@@ -73,7 +73,7 @@ Kotlin                             74 hrs 12 mins        >>---------------------
 C                                  53 hrs 11 mins        >>-----------------------   06.60 %
 C++                                51 hrs 45 mins        >>-----------------------   06.42 %
 PHP                                38 hrs 31 mins        >------------------------   04.78 %
-Other                              27 hrs 41 mins        >------------------------   03.44 %
+Other                              27 hrs 44 mins        >------------------------   03.44 %
 ```
 
 <!--END_SECTION:waka-->
