@@ -111,7 +111,7 @@ Other                              27 hrs 53 mins        >----------------------
 🎮 Recently played Steam games
 ```text
 🎮 Upload Labs                      🕘 53 hrs 42 mins
-⚔️ Dota 2                           🕘 3958 hrs 20 mins
+⚔️ Dota 2                           🕘 3962 hrs 32 mins
 🎮 Path of Exile 2                  🕘 150 hrs 40 mins
 🎮 Moonlighter                      🕘 1 hrs 19 mins
 ```
