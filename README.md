@@ -112,6 +112,7 @@ Other                              27 hrs 53 mins        >----------------------
 ```text
 🎮 Upload Labs                      🕘 53 hrs 42 mins
 ⚔️ Dota 2                           🕘 3962 hrs 32 mins
+🎮 Onimusha: Way of the Sword DEMO  🕘 5 hrs 16 mins
 🎮 Path of Exile 2                  🕘 150 hrs 40 mins
 🎮 Moonlighter                      🕘 1 hrs 19 mins
 ```
