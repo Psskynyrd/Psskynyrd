@@ -112,9 +112,9 @@ Other                              28 hrs 5 mins         >----------------------
 ```text
 ⚔️ Dota 2                           🕘 3965 hrs 25 mins
 🎮 Onimusha: Way of the Sword DEMO  🕘 5 hrs 16 mins
-🎮 Path of Exile 2                  🕘 150 hrs 40 mins
 🎮 Moonlighter                      🕘 1 hrs 19 mins
 🎮 Upload Labs                      🕘 53 hrs 42 mins
+🎮 PEAK                             🕘 34 hrs 50 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
