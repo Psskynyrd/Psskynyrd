@@ -110,7 +110,7 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3974 hrs 4 mins
+⚔️ Dota 2                           🕘 3975 hrs 19 mins
 🎮 Onimusha: Way of the Sword DEMO  🕘 5 hrs 16 mins
 🎮 Code: Terraform Demo             🕘 1 hrs 7 mins
 🎮 Upload Labs                      🕘 53 hrs 42 mins
