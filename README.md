@@ -113,7 +113,6 @@ Other                              28 hrs 23 mins        >----------------------
 ⚔️ Dota 2                           🕘 3975 hrs 19 mins
 🎮 Onimusha: Way of the Sword DEMO  🕘 5 hrs 16 mins
 🎮 Code: Terraform Demo             🕘 1 hrs 7 mins
-🎮 Upload Labs                      🕘 53 hrs 42 mins
 🎮 PEAK                             🕘 34 hrs 50 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
