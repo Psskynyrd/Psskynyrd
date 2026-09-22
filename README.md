@@ -110,7 +110,7 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 3985 hrs 19 mins
+⚔️ Dota 2                           🕘 3989 hrs 0 mins
 🎮 Code: Terraform Demo             🕘 1 hrs 7 mins
 🎮 Police Chief Simulator Demo      🕘 1 hrs 2 mins
 🎮 Chinese Characters               🕘 0 hrs 11 mins
