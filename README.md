@@ -110,7 +110,7 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 4000 hrs 0 mins
+⚔️ Dota 2                           🕘 4001 hrs 28 mins
 🎮 Police Chief Simulator Demo      🕘 1 hrs 2 mins
 🎮 PEAK                             🕘 35 hrs 21 mins
 🎮 Chinese Characters               🕘 0 hrs 11 mins
