@@ -102,7 +102,7 @@ Other                              28 hrs 23 mins        >----------------------
 🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
 🎮 Last Epoch                       🕘 173 hrs 44 mins
 🎮 Path of Exile 2                  🕘 150 hrs 40 mins
-🎮 Deadlock                         🕘 57 hrs 22 mins
+🎮 Deadlock                         🕘 57 hrs 31 mins
 🎮 Upload Labs                      🕘 53 hrs 42 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -110,9 +110,9 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 4010 hrs 34 mins
+⚔️ Dota 2                           🕘 4016 hrs 1 mins
 🎮 Police Chief Simulator Demo      🕘 1 hrs 2 mins
-🎮 Deadlock                         🕘 57 hrs 22 mins
+🎮 Deadlock                         🕘 57 hrs 31 mins
 🎮 PEAK                             🕘 35 hrs 21 mins
 🎮 Screeps: Arena Demo              🕘 0 hrs 28 mins
 ```
