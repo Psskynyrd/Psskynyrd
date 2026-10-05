@@ -110,11 +110,9 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 4018 hrs 39 mins
+⚔️ Dota 2                           🕘 4020 hrs 29 mins
 🎮 Deadlock                         🕘 57 hrs 31 mins
 🎮 PEAK                             🕘 35 hrs 21 mins
-🎮 Police Chief Simulator Demo      🕘 1 hrs 2 mins
-🎮 Screeps: Arena Demo              🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
