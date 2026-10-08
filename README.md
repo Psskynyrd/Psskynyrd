@@ -110,9 +110,8 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 4027 hrs 33 mins
+⚔️ Dota 2                           🕘 4033 hrs 38 mins
 🎮 Deadlock                         🕘 58 hrs 3 mins
-🎮 PEAK                             🕘 35 hrs 21 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
