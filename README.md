@@ -110,7 +110,7 @@ Other                              28 hrs 23 mins        >----------------------
   <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-⚔️ Dota 2                           🕘 4095 hrs 5 mins
+⚔️ Dota 2                           🕘 4096 hrs 31 mins
 🎮 Ghost in the SQL Data Demo       🕘 0 hrs 19 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
