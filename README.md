@@ -80,9 +80,9 @@ Other                              28 hrs 23 mins        >----------------------
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/Psskynyrd)  -->
 
-<hr />
+<!-- <hr /> -->
 
-<div>
+<!-- <div>
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fs2dcl4blk7o74mypil3dna&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false">
@@ -91,28 +91,9 @@ Other                              28 hrs 23 mins        >----------------------
 </p><p align="center">
   <a href="https://www.youtube.com/channel/UCpKizIKSk8ga_LCI3e3GUig" target="_blank"><img alt="youtube" src="https://youtube-stats-card.vercel.app/api?channelid=UCDADfUXWbPuTO3vlZVX83eQ" /></a> 
 </p>
-</div>
+</div> -->
 
 
-<hr />
+<!-- <hr /> -->
 
- <!-- steam-box-playtime start -->
-🎮 Steam playtime leaderboard
-```text
-🎮 Kingdom Come: Deliverance        🕘 248 hrs 41 mins
-🎮 Last Epoch                       🕘 173 hrs 44 mins
-🎮 Path of Exile 2                  🕘 150 hrs 40 mins
-🎮 Deadlock                         🕘 59 hrs 57 mins
-🎮 Upload Labs                      🕘 53 hrs 42 mins
-```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
-<!-- steam-box-playtime end -->
-  <!-- steam-box-recent start -->
-🎮 Recently played Steam games
-```text
-⚔️ Dota 2                           🕘 4111 hrs 30 mins
-🎮 Deadlock                         🕘 59 hrs 57 mins
-```
-<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
-<!-- steam-box-recent end -->
 
